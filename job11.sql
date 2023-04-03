@@ -1,0 +1,1 @@
+SELECT * FROM etudiants2 where id=3;

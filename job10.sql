@@ -1,0 +1,1 @@
+ SELECT * FROM etudiants2 ORDER BY age DESC;

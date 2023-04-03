@@ -1,0 +1,1 @@
+SELECT COUNT(id) FROM etudiants2 WHERE age<18
